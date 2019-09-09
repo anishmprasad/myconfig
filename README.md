@@ -1,0 +1,2 @@
+# myconfig
+My development configuration
