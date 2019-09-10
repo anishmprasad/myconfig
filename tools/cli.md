@@ -1,6 +1,7 @@
 # CLI Tools
 
-terminal color theme : Dracula
+Terminal color theme : Dracula
 
-install brew
-brew install node
+-   install brew
+-   brew install node
+-   oh my zsh

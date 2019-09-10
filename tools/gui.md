@@ -1,8 +1,8 @@
 ## Development tools
 
-Postman
-vscod
-notes
-simplenote
-slack
-chrome
+-   Postman
+-   vscod
+-   notes
+-   simplenote
+-   slack
+-   chrome
