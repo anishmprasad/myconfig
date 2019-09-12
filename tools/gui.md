@@ -1,7 +1,7 @@
 ## Development tools
 
 -   Postman
--   vscod
+-   vscode
 -   notes
 -   simplenote
 -   slack
