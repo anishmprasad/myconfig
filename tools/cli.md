@@ -4,7 +4,7 @@ Terminal color theme : Dracula
 
 -   install brew
 -   brew install node
--   oh my zsh
+-   oh my zsh (sh -c "\$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")
 -   brew install tree
 -   brew install heroku
 -   brew install azure-cli
