@@ -7,7 +7,7 @@ Terminal color theme : Dracula
 -   oh my zsh (sh -c "\$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")
 -   brew install tree
 -   brew install heroku
--   brew install azure-cli
+-   brew install wget
 
 *   alias
     -   log = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
