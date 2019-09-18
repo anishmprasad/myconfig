@@ -6,3 +6,4 @@
 -   simplenote
 -   slack
 -   chrome
+-   tor browser
