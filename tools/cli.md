@@ -2,7 +2,7 @@
 
 Terminal color theme : Dracula
 
--   install brew
+-   install brew (/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)")
 -   brew install node
 -   oh my zsh (sh -c "\$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")
 -   brew install tree
