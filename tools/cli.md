@@ -2,9 +2,11 @@
 
 Terminal color theme : Dracula
 
--   install brew (/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)")
+-   install brew (/usr/bin/ruby -e "\$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)")
 -   brew install node
 -   oh my zsh (sh -c "\$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")
+-   oh my zsh autosuggestion (git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions)
+    -   source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh (nano ~/.zshrc)
 -   brew install tree
 -   brew install heroku
 -   brew install wget
