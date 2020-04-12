@@ -4,7 +4,7 @@
 - VSCode
 - Notes
 - Simplenote
-- Slack
+- Slack/Flock
 - Chrome
 - Tor browser
 - Filezilla
