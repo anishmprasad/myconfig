@@ -9,7 +9,7 @@ Terminal color theme : Dracula
   -  git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions) refer : https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
   -  add `source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh` in `nano ~/.zshrc`
 - brew install tree
-- brew install heroku
+- brew install heroku (https://devcenter.heroku.com/articles/heroku-cli)
 - brew install wget
 
 * alias
