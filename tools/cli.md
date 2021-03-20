@@ -6,7 +6,7 @@ Terminal color theme : Dracula
 - brew install node
 - oh my zsh (sh -c "\$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")
 - oh my zsh autosuggestion (
-  -  git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions) refer : https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
+  -  git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions) reference : https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
   -  add `source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh` in `nano ~/.zshrc`
 - brew install tree
 - brew install heroku (https://devcenter.heroku.com/articles/heroku-cli)
