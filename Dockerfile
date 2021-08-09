@@ -1,10 +1,15 @@
 
 # docker build --progress=plain -f ./Dockerfile . 
+# docker build -f ./Dockerfile .  
 
 # docker exec -it 28a91698ebea5a79f7ed9b887a6960fdb359cf7f9df1b849fbef30374e008f12 /bin/sh
+# docker exec -it 9535b9d0b723 /bin/sh
 
 # docker run --publish 80:80 91baeee62323 
 
+#docker images 
+
+#docker ps
 
 
 
@@ -33,7 +38,8 @@ RUN npm install
 COPY . ./
 
 # Runs the application
-RUN npm run build:staging
+# RUN npm run build:staging
+CMD ["npm", "run build:staging"]
 
 # production environment
 FROM nginx:stable-alpine
