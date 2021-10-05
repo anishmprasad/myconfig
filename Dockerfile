@@ -16,6 +16,15 @@
 # To get container
 # docker ps
 
+# stop a container
+# docker container stop container-id
+
+# remove a container
+# docker container rm container-id
+
+# remove a image
+# docker rmi -f image-id (force mode)
+
 
 
 
