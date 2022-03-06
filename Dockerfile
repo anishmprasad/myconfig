@@ -29,6 +29,10 @@
 # docker rmi -f image-id (force mode)
 
 
+# Reference
+# https://www.ringingliberty.com/2021/02/19/nginx-500-interal-server-error-with-react-app-1-rewrite-or-internal-redirection-cycle-while-internally-redirecting-to-index-html/
+
+
 
 
 # a custom Docker Image with this Dockerfile for live classes
