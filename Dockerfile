@@ -8,6 +8,9 @@
 # docker exec -it 28a91698ebea5a79f7ed9b887a6960fdb359cf7f9df1b849fbef30374e008f12 /bin/sh 
 # docker exec -it 9535b9d0b723 /bin/sh
 
+# To get one file from container
+# sudo docker cp 5bca23ee5b3a:etc/nginx/conf.d/default.conf ~/Desktop/default.txt
+
 # docker run --publish 80:80 91baeee62323 
 
 # To get images
