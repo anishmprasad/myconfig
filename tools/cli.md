@@ -3,6 +3,8 @@
 Terminal color theme : Dracula
 
 - install brew (/usr/bin/ruby -e "\$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)")
+- nano .zshrc
+- add export PATH=/opt/homebrew/bin:$PATH
 - brew install node
 - oh my zsh (sh -c "\$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)")
 - oh my zsh autosuggestion (
