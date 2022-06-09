@@ -1,6 +1,5 @@
 # myconfig
-
-Tools, Terminal CMD, and Configuration
+My Development Configuration
 
 
 # Licence
