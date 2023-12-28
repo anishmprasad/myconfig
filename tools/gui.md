@@ -8,3 +8,4 @@
 - Chrome
 - Tor browser
 - Filezilla
+- https://github.com/exelban/stats?tab=readme-ov-file
